@@ -16,7 +16,7 @@ I love combining **design** and **code**—from layout aesthetics to logical flo
 - 📱 Developing mobile apps using **Flutter (with Dart)**  
 - ⚙️ Exploring light backend setups with **Node.js**  
 - 🎨 Skilled in visual content design using **Figma, Pixellab, and Canva**  
-- 🌐 Website: [uwangraph.vercel.app](https://uwangraph.vercel.app)  
+- 🌐 Website: [uwangraph.vercel.app](https://uwangraph.com)  
 - 📫 Contact me: **uwangraph@gmail.com**
 
 ---
